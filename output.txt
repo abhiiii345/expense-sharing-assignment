@@ -1,0 +1,11 @@
+--- BALANCES ---
+A owes B: ₹100.00
+A owes C: ₹250.00
+B owes A: ₹100.00
+B owes C: ₹150.00
+C owes A: ₹100.00
+C owes B: ₹100.00
+
+--- SIMPLIFIED BALANCES ---
+A pays C: ₹150.00
+B pays C: ₹50.00
